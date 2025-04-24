@@ -4,7 +4,7 @@ from io import BytesIO
 
 st.set_page_config(page_title="Smart Data Merger", layout="wide")
 
-st.title("🔬 Smart Scientific Data Merger")
+st.title("🔬 Smart Data Merger")
 st.markdown("**Designed by Muzzamil Malick**")
 
 # 1. Choose file type
