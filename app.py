@@ -4,8 +4,8 @@ from io import BytesIO
 
 # Set page configuration
 st.set_page_config(page_title="Smart Data Merger", layout="wide")
-st.title("🔬 Smart Scientific Data Merger")
-st.markdown("**Designed by Muzzamil Malick**")
+st.title("🔬 Smart Data Merger")
+st.markdown("**Designed by Muzzamil Malick (Bioinformatician)**")
 
 # File type selector
 file_type = st.radio("📁 Select File Type:", options=["CSV", "Excel"])
